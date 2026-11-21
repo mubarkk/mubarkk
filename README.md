@@ -12,7 +12,7 @@ A daily automation that turns a product listing into a finished short-form video
 
 **▶ [Videos the pipeline produced + workflow screenshots](https://drive.google.com/drive/folders/1BjzVs6Mz_qple7wTOEaIAUhCCg7akhBZ?usp=drive_link)**
 
-![Full workflow](<img width="1640" height="932" alt="WORKFLOW SCREENSHOT" src="https://github.com/user-attachments/assets/3f1272a4-7134-4018-a839-ecdfeb1005fb" />)
+![Full workflow](https://github.com/user-attachments/assets/3f1272a4-7134-4018-a839-ecdfeb1005fb)
 
 **How it works**
 
@@ -48,9 +48,9 @@ A web app for learning the Oromo language, which I built and deployed solo.
 
 *The hosting platform has since shut down, so there's no live link. Here are screenshots from the Stripe dashboard:*
 
-![Stripe screenshot 1](<img width="1907" height="985" alt="stripe_one" src="https://github.com/user-attachments/assets/dc0a4147-82a1-4124-80d2-52692393b96e" />)
-![Stripe screenshot 2](<img width="1897" height="992" alt="stripe_two" src="https://github.com/user-attachments/assets/200654b3-c9f6-4482-8204-4f53bed5f2c3" />)
-![Stripe screenshot 3](<img width="1901" height="977" alt="stripe_three" src="https://github.com/user-attachments/assets/592a7620-ea31-48a8-9255-964dd8475749" />)
+![Stripe screenshot 1](https://github.com/user-attachments/assets/dc0a4147-82a1-4124-80d2-52692393b96e)
+![Stripe screenshot 2](https://github.com/user-attachments/assets/200654b3-c9f6-4482-8204-4f53bed5f2c3)
+![Stripe screenshot 3](https://github.com/user-attachments/assets/592a7620-ea31-48a8-9255-964dd8475749)
 
 **Tools:** Stripe API, webhooks
 
